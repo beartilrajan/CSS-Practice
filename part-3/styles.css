@@ -1,0 +1,13 @@
+.Black,.Yellow{
+    display: inline;
+}
+
+.Black{
+    background-color: black;
+    color: white;
+    border: 2px solid gray;
+}
+.Yellow{
+    background-color: yellow;
+    border: 2px solid black;
+}
